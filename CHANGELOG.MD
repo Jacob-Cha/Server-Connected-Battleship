@@ -1,0 +1,3 @@
+- Moved some of the functions the model took care of into the AiPLayer and ConsolePlayer
+- Changed ShipType into an Enumeration instead  of it being a class
+- Made the Coord class more simplistic as it had things in it that weren't necessary
